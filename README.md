@@ -3,7 +3,7 @@
 
 ## 介绍
 
-NSArray和NSDictionary以JSON格式打印；显示中文字符；安全的取值、赋值。
+NSArray和NSDictionary以JSON格式打印；显示中文字符；安全的取值、赋值，不会产生crash。
 
 
 ## 系统要求
@@ -21,6 +21,6 @@ NSArray和NSDictionary以JSON格式打印；显示中文字符；安全的取值
 
 ## 使用方法
 
-无需`import`，只要项目中存在即可执行。    
+无需`import`，只要项目中存在即可自动执行。    
 
 
